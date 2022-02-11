@@ -1,5 +1,9 @@
 ---
 title: Hello World
+# 首页显示文章头图
+cover: /img/welcome-cover1.png
+# 文章内部bgm
+# mp3: http://localhost:4000/music/sanye_theme.mp3
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
