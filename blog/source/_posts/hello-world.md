@@ -1,7 +1,7 @@
 ---
 title: Hello World
 # 首页显示文章头图
-cover: /img/welcome-cover1.png
+cover: /img/welcome-cover2.png
 # 文章内部bgm
 # mp3: http://localhost:4000/music/sanye_theme.mp3
 ---
